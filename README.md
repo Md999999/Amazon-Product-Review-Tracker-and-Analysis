@@ -61,8 +61,8 @@ AI/NLP: NLTK (Vader Lexicon)
 
 Visuals: Matplotlib, Seaborn, WordCloud
 
-!(Screenshot1)(https://github.com/Md999999/Amazon-Product-Review-Tracker-and-Analysis/blob/main/Screenshot%202026-01-02%20042941.png)
-!(Screenshot2)(https://github.com/Md999999/Amazon-Product-Review-Tracker-and-Analysis/blob/main/Screenshot%202026-01-02%20042958.png)
-!(Screenshot3)(https://github.com/Md999999/Amazon-Product-Review-Tracker-and-Analysis/blob/main/Screenshot%202026-01-02%20043449.png)
-!(Screenshot4)(https://github.com/Md999999/Amazon-Product-Review-Tracker-and-Analysis/blob/main/Screenshot%202026-01-02%20043459.png)
-!(Screenshot5)(https://github.com/Md999999/Amazon-Product-Review-Tracker-and-Analysis/blob/main/Screenshot%202026-01-02%20043541.png)
+![Screenshot 1](./Screenshot%202026-01-02%20042941.png)
+![Screenshot 2](./Screenshot%202026-01-02%20042958.png)
+![Screenshot 3](./Screenshot%202026-01-02%20043449.png)
+![Screenshot 4](./Screenshot%202026-01-02%20043459.png)
+![Screenshot 5](./Screenshot%202026-01-02%20043541.png)
