@@ -60,3 +60,5 @@ Data: Pandas, Kagglehub
 AI/NLP: NLTK (Vader Lexicon)
 
 Visuals: Matplotlib, Seaborn, WordCloud
+
+()(https://github.com/Md999999/Amazon-Product-Review-Tracker-and-Analysis/blob/main/Screenshot%202026-01-02%20042941.png)
